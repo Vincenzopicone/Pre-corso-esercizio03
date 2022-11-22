@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,400;1,600&family=Prata&display=swap');
+img {
+    width: 100%;
+}  
+.main-section {
+    padding: 20px;
+}
+.imagecontainer {
+    height: 300px;
+}
+.titlefont {
+    font-family: Prata; font-size: 64px; font-weight: 400;
+}    
+.undertitlefont {
+    font-family: Prata; font-size: 24px; font-weight: 400; margin-top: 0;
+}
+.bodytext {
+    font-family: Montserrat; 
+}
+.luoghicorrelati {
+    padding: 22px; 
+    margin-bottom: 0; 
+    margin-top: 56px; 
+    color: white; 
+    background: linear-gradient(#8c7958, #2690c9);
+    border-radius: 6px;
+}
+.stileluoghi {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: 1px;
+    border-color: #dfdfdf;
+    list-style: none;
+    list-style-type: none; 
+    text-decoration: none;
+}
+.profilo {
+    font-weight: 600px; font-style: italic;
+}
+footer {
+    background-color: black;
+    padding: 16px;
+    text-align: center;
+    
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
